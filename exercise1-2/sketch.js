@@ -23,17 +23,12 @@ function draw (){
 
 background(0,0,255);
 
-text("lorem ipsum ", 300,300);
+text("lorem ipsum ", 400,400,300,300);
 fill(255);
 
 textSize(45);
 
-
-
 }
-
-
-
 
 function keyPressed() {
 

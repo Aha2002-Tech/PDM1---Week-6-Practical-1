@@ -40,3 +40,9 @@ function drawKeyboard() {
         text(k.name, k.x, k.y, KEY_WIDTH, KEY_WIDTH);
     }
 }
+function mouseClicked(){
+
+
+
+
+}
